@@ -1,0 +1,15 @@
+Proof of Concept:
+  ☐ Parse all "done" ToDo strings into json
+    {
+      taskName: "My task name",
+      started: timestamp,
+      lasted: timestamp,
+      tags: []
+    }
+  ☐ POST to API
+  ☐ 
+
+Features:
+  ☐ Support for Github
+  ☐ Support for Trello
+  ☐ Support for Asana
